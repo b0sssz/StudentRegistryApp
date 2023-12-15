@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+##
+This project is about a resourceful APIs for the student registry app of South of Australia University.
+
+## Postman Link
+- https://api.postman.com/collections/31734344-34c21d69-94e1-48d7-8d00-6afa4a4d7fb8?access_key=PMAT-01HHNNSGYYEADMR7E7Y98NDB36
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
